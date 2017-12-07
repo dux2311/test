@@ -59,6 +59,21 @@ _lang = {
         "Loyalty": "Loyalty",
         "to": "to"
     },
+     "cz": {
+        "Attacker": "útočník",
+        "Defender": "obránce",
+        "Buildings": "Buildings",
+        "None of your troops have returned": "None of your troops have returned",
+        "Cleared": "Cleared",
+        "Haul": "Haul",
+        "Wood": "drevo",
+        "Clay": "hlina",
+        "Iron": "zelezo",
+        "Unexpected troop type!": "Unexpected troop type!",
+        "Wall": "zed",
+        "Loyalty": "oddanost",
+        "to": "to"
+    },
     "no": {
         "Attacker": "Angriper",
         "Defender": "Forsvarer",
